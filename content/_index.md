@@ -2,6 +2,7 @@
 date = '2024-11-23T20:51:13-07:00'
 draft = false
 title = 'Home'
+subtitle = 'Learning basic Hugo concepts.'
 +++
 
 Hugo supports markdown, which enables you to do many things including **bold**, _italic_, and these examples below.
